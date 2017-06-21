@@ -1,0 +1,45 @@
+body{
+	padding: 0px;
+	height: auto;
+	width: 1280px;
+	margin: auto;
+	font-family: sans-serif;
+	
+}
+li
+{
+	list-style: none;
+}
+ul
+{
+	margin:0px;
+	padding:0px;
+}
+a
+{
+	text-decoration: none;
+	color: inherit;
+}
+p{
+	margin:0px;
+	padding:0px;
+}
+.uttu
+{
+	font-size: 18px;
+	font-weight: bold;
+	padding-left: 5px;
+}
+.footer{
+	float: right;
+	padding-top:20px;
+/*	padding-bottom: 20px;*/
+	margin-right: 50px;
+	height: 25px;
+
+}
+.bg_clr{
+	background-color: #fafafa;
+	height: 60px;
+	box-shadow: inset 1px 4px 7px 1px rgb(226, 226, 226);
+}
